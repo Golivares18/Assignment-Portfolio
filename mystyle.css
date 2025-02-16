@@ -2,14 +2,17 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f3dcac;
     line-height: 1.6;
-}
-
-h1 {
-
-
-}
-
-p {
 
     
+}
+
+h1, h2 {
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+
+ul, li {
+    text-align: left;
+    list-style-position: initial;
 }
