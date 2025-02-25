@@ -4,13 +4,15 @@ body {
     line-height: 1.6;
 
     .blocks {
-        background: #ffffff;
+        background: #f2ead1;
         padding: 15px;
         margin-bottom: 10px;
         width: 70%;
         border-radius: 25px;
         border: 2px solid #49a0ba;
         padding: 20px;
+        border-bottom: 3px solid black;
+        overflow: hidden;
         width: fit-content;
         height:fit-content;
         animation: animate 2s linear forwards;
@@ -28,8 +30,8 @@ body {
         }
 
         60% {
-            width: fit-content;
-            height: fit-content;
+            width: 50px;
+            height: 80px;
         }
     }
     
