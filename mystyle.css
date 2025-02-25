@@ -1,10 +1,10 @@
 body {
     font-family: "Lobster";
-    background-color: #dfdede;
+    background-color: #ede0b4;
     line-height: 1.6;
 
     .blocks {
-        background: #ffffff;
+        background: #ede0b4;
         padding: 15px;
         margin-bottom: 10px;
         width: 70%;
